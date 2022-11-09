@@ -1,0 +1,5 @@
+he string method replace to replace hyphens with spaces before using
+split to break the line into a list of strings. It traverses the list of words and uses strip
+and lower to remove punctuation and convert to lower case. (It is a shorthand to say that
+strings are “converted;” remember that string are immutable, so methods like strip and
+lower return new strings.
